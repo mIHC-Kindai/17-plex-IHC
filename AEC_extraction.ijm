@@ -1,4 +1,3 @@
-//  Copyright (C) 2016, Takahiro Tsujikawa, ROhan N, Borkar and Vahid Azimi.
 //  Copyright (C) 2021, Takahiro Tsujikawa
 //
 //  This program is free software: you can redistribute it and/or modify
@@ -127,4 +126,5 @@ function process_AEC_Q(input, output, filename) {
 print("Find all images in "+Rsave);
 
 print("Finished");
-showMessage("Finished");
+
+showMessage("Finished");
