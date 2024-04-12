@@ -1,4 +1,3 @@
-//  Copyright (C) 2016, Takahiro Tsujikawa, ROhan N, Borkar and Vahid Azimi.
 //  Copyright (C) 2021, Kohsuke Isomoto
 //
 //  This program is free software: you can redistribute it and/or modify
